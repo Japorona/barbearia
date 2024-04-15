@@ -1,0 +1,10 @@
+app\service\FuncionarioServiceTest.class
+app\controller\FuncionarioControllerTest.class
+app\controller\HorarioControllerTest.class
+app\service\FormaPagamentoServiceTest.class
+app\controller\ClienteControllerTest.class
+app\controller\FormaPagamentoControllerTest.class
+app\service\HorarioServiceTest.class
+app\controller\PagamentoControllerTest.class
+app\service\ClienteServiceTest.class
+app\service\PagamentoServiceTest.class
